@@ -68,5 +68,6 @@ print(my_int(b'1232321'))
 
 #print(question 29:)
 """
-
+I enjoyed solving the questions that involved writing python (questions 27, 22, etc).
+The questions that expected specific hand-written answers are necessary to learn the material, so they should remain.
 """
