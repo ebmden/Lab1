@@ -1,5 +1,3 @@
-import math
-
 from showbits import shorthand, bits
 
 '''LG'''
